@@ -1,0 +1,13 @@
+----------------------------------------
+Marvellous names of duplicate files
+----------------------------------------
+G:\python assigment\assignment11\demo\a - Copy (2) copy 3.txt
+G:\python assigment\assignment11\demo\a - Copy (2) copy 4.txt
+G:\python assigment\assignment11\demo\a - Copy (2) copy 5.txt
+G:\python assigment\assignment11\demo\a - Copy (2) copy 6.txt
+G:\python assigment\assignment11\demo\demo - Copy (10) copy 3.txt
+G:\python assigment\assignment11\demo\demo - Copy (10) copy 4.txt
+G:\python assigment\assignment11\demo\demo - Copy (10) copy 5.txt
+G:\python assigment\assignment11\demo\demo - Copy (10) copy 6.txt
+G:\python assigment\assignment11\demo\demo - Copy (10) copy 7.txt
+G:\python assigment\assignment11\demo\demo - Copy (10) copy 8.txt
